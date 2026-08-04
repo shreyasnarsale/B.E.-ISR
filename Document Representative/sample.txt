@@ -1,0 +1,3 @@
+Natural language processing is an important field of artificial intelligence.
+Natural language processing helps computers understand human language.
+Processing textual information is useful in search engines and document retrieval.

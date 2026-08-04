@@ -1,0 +1,12 @@
+Artificial intelligence is transforming modern technology and everyday life.
+Machine learning enables computers to learn from data without explicit programming.
+Natural language processing helps machines understand and generate human language.
+Text mining extracts useful information from large collections of documents.
+Search engines use document indexing to provide fast and accurate results.
+Data preprocessing improves the quality of information before analysis.
+Stemming reduces different forms of a word to its root form.
+Stop word removal eliminates common words that carry little meaning.
+Information retrieval systems find relevant documents based on user queries.
+Document classification organizes text into predefined categories automatically.
+Recommendation systems suggest useful products, movies, or articles to users.
+Big data analytics helps organizations make better decisions using large datasets.
